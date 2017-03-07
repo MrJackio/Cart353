@@ -1,0 +1,61 @@
+﻿Prototype 1
+Project: Jack of All Games
+By: Jack Harrison
+Description: A multiplayer virtual board game designed to bring people together.
+________________
+
+
+
+
+Artist’s Statement:
+        Virtual board games are an extremely entertaining category in gaming, yet very underutilized. With the development and momentum of modern gaming tech like virtual reality, I believe these digital board games are going to make a comeback. With a more engaging and intuitive medium like VR, users are able to enjoy games they may have only enjoyed in real life before. I plan to exchange the extremes of today’s video games like violence and action, for more mundane everyday situations. By using realistic physics engines I hope to bring a lifelike experience to the players. Jack of All Games, is a game which can simply stay running in the corner of your house being both a sandbox, and digital board game. This makes the game seem more physical and similar to other board games or objects in your home. In the future, a box with a small computer, Leap motion and custom casing could act as an arcade cabinet, made only to run Jack of All Games. With modern technology it is no longer necessary to “sweeten” video games with violence and or action.
+
+
+________________
+
+
+
+
+Demonstration:
+        Demo the cubes
+        Mention the Table
+        Collide w/ sphere
+        Mention additional 3D models
+
+
+________________
+
+
+
+
+Questions  Pre-Prototype:
+
+
+        How do we design for true 3D space (i.e input is in 3d space)?
+        
+        What do my friends and I want to play when we are hanging at home?
+
+
+        How can I experiment w/ the honor system in, usually rule filed, videogames?
+
+
+        Why have board games survived as a medium as long as they have?
+
+
+
+
+
+
+Questions  Post-Prototype:
+
+
+        Which physics library should I use?
+
+
+        How do we redesign a digital board game to be as intuitive and interactive as their real counterparts?
+
+
+        How strong of a goal do we need for it to be enough?
+
+
+        Should the camera move? (how much space do we need)
